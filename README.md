@@ -15,4 +15,4 @@ Gördüğünüz üzere ana problemimiz bilgisayarın çalışmaması. İlk adım
 
 
 
-Özetle, Algoritma belirli bir durumdan başlayıp belirli bir sonuçta biten problemlere çözüm getiren adımlardır.
+**Özetle, Algoritma belirli bir durumdan başlayıp belirli bir sonuçta biten problemlere çözüm getiren adımlardır.** 
